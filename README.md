@@ -1,4 +1,4 @@
-<h1 align='center'>Hi 👋🏻, I'm Joshua Long</h1>
+<h1 align='center'>Hey there 👋🏻, I'm Joshua Long</h1>
 <h3 align='center'>I'm a tech enthusiast studying Information Technology at <a href="https://www.nyp.edu.sg">Nanyang Polytechnic</a></h3>
 
 ![](https://komarev.com/ghpvc/?username=Sadliquid&color=yellow)

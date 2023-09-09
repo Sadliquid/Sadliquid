@@ -35,7 +35,7 @@ Let's get to know each other better!
 </p>
 
 ## 🏆 Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ## 📈 Statistics 📈
 

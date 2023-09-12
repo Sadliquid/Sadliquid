@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning [Swift](https://www.codecademy.com/enrolled/courses/learn-swift) on [Codecademy](https://www.codecademy.com/learn) and taking up the [Python PCEP Course](https://pythoninstitute.org/pcep) as part of [Nanyang Polytechnic (NYP)](https://www.nyp.edu.sg/schools/sit.html)'s IT Professional Certification Programme (IPCP) to earn its widely recognised certification
 
-- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and am currently testing [iOS 17](https://www.apple.com/sg/ios/ios-17-preview). Watch [WWDC23](https://events-delivery.apple.com/0105cftwpxxsfrpdwklppzjhjocakrsk/m3u8/vod_index-PQsoJoECcKHTYzphNkXohHsQWACugmET.m3u8) to find out more!
+- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and am currently testing [iOS 17](https://www.apple.com/sg/ios/ios-17-preview). Watch [Worldwide Developers Conference 2023 (WWDC23)](https://events-delivery.apple.com/0105cftwpxxsfrpdwklppzjhjocakrsk/m3u8/vod_index-PQsoJoECcKHTYzphNkXohHsQWACugmET.m3u8) to find out more!
   
 - 👨🏼‍💻 My Personal Portfolio can be found [here](https://joshua-long-yx.tech)
   

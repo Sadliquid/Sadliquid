@@ -35,6 +35,11 @@ Let's get to know each other better!
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript#" title="Javascript"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/7da7fe79-fc28-41d3-8978-c52c6e54d62e" width="36" height="50" align="center"></a>
   <a href="https://www.figma.com" title="Figma"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/58b74ae9-df07-4543-97e4-284974cbcc2c" width="50" height="50" align="center"></a>
   <a href="https://www.swift.org" title="Swift"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/c8c1c8c3-5591-4056-ab54-2727286ff965" width="50" height="50" align="center"></a>
+  <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/e67417f9-b730-45f0-8738-573fbecc9f6e" width="50" height="50" align="center"></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/a6ae5fca-c90d-4ad0-a9c0-c876283c847a" width="50" height="50" align="center"></a>
+
+
+
 </p>
 
 ## 🏆 Github Trophies 🏆

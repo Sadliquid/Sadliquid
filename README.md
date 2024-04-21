@@ -5,17 +5,16 @@
 
 ## 💬 About me 💬
 
-- 🌱 I’m taking up the [Python PCEP Course](https://pythoninstitute.org/pcep) as part of [Nanyang Polytechnic (NYP)](https://www.nyp.edu.sg/schools/sit.html)'s IT Professional Certification Programme (IPCP) to earn its widely recognised certification
+- 🌱 Certified Entry-Level Python Programmer, Web Developer, Discord Developer and aspiring student yearning to find my place in the world of Computer Science
 
-- 👾 My friends and I have been working on a Web Platform designed to help tourists coming to Singapore generate sustainable itineraries. Head over to [Verdex](https://verdex.app) to check it out! 
+- 👾 My friends and I developed Verdex; a Web Platform designed to help tourists coming to Singapore generate sustainable itineraries. Head over to [Verdex](https://verdex.app) to check it out! 
 
-- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and am currently testing [iOS 17](https://www.apple.com/sg/ios/ios-17-preview). Watch [Worldwide Developers Conference 2023 (WWDC23)](https://events-delivery.apple.com/0105cftwpxxsfrpdwklppzjhjocakrsk/m3u8/vod_index-PQsoJoECcKHTYzphNkXohHsQWACugmET.m3u8) to find out more!
+- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and have been testing [iOS 17](https://www.apple.com/sg/ios/ios-17-preview). Stay tuned for [Worldwide Developers Conference 2024 (WWDC24)](https://developer.apple.com/wwdc24/) to find out more about iOS18's release!
   
-- 👨🏼‍💻 My Personal Portfolio can be found [here](https://joshua-long-yx.tech)
+- 👨🏼‍💻 My Personal Webpage can be found [here](https://joshua-long-yx.tech)
   
-- 🤔 I’m interested in mastering [Python](https://www.python.org) and exploring [SwiftUI](https://www.codecademy.com/learn/paths/build-ios-apps-with-swiftui) as I yearn to pursue iOS App Development in the future
+- 🤔 I’m interested in iOS Development, Web and Discord Dev, as well as tech-related events, workshops and hackathons
   
-- 👀 I’m looking to collaborate with like-minded individuals in events to gain experience in such as Hackathons, IT conferences/conventions and workshops
 ## 📫 Connect with me 📫
 Let's get to know each other better!
 <h3>My socials</h3>
@@ -40,6 +39,7 @@ Let's get to know each other better!
   <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/e67417f9-b730-45f0-8738-573fbecc9f6e" width="50" height="50" align="center"></a>
   <a href="https://git-scm.com" title="Git"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/a6ae5fca-c90d-4ad0-a9c0-c876283c847a" width="50" height="50" align="center"></a>
   <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/933a5e52-7c2f-4325-be97-e275794c170c" width="65" height="50" align="center"></a>
+  <a href="https://nodejs.org/en" title="NodeJS"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/f050f3f3-9c70-4f49-a502-a54c69af0356" width="50" height="50" align="center"></a>
 </p>
 
 ## 🏆 Github Trophies 🏆

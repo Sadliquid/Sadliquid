@@ -25,7 +25,7 @@ Let's get to know each other better!
   <a href="https://www.facebook.com/profile.php?id=100091788181902&mibextid=LQQJ4d" title="Facebook"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/5b308ce7-0a98-4d19-bda7-3136713e4c81" width="50" height="50" align="center"></a>  
 </p>
 <h3>My contact channels</h3>
-<a href="mailto:joshualongyx@joshua-long-yx.tech" title="Email me"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/384b9aa6-e7ab-4161-9141-93b1c3a24d03" width="50" height="50" align="center"></a>
+<a href="mailto:joshua-long-me@protonmail.com" title="Email me"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/384b9aa6-e7ab-4161-9141-93b1c3a24d03" width="50" height="50" align="center"></a>
 
 ## 🔨 Languages and tools 🔨
 <p align='left'>

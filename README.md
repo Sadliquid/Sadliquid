@@ -30,6 +30,7 @@ Let's get to know each other better!
 ## 🔨 Languages and tools 🔨
 <p align='left'>
   <a href="https://www.python.org" title="Python"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/ef8028f9-9a3c-4eb7-b9c0-35479e5ba356" width="50" height="50" align="center"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/041f2b99-ba86-4ac4-b154-86f48f3a4568" width="50" height="50" align="center"></a>
   <a href="https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values." title="SQL"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/457f2179-c77b-48b3-9eed-86100a740ea0" width="50" height="50" align="center"></a>
   <a href="https://html.com/html5" title="HTML5"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/c7c732e6-bbf8-49c4-bef4-678877e430d3" width="50" height="50" align="center"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS#" title="CSS"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/313f61ff-ee0e-447a-9214-1a87fa66ad8a" width="50" height="50" align="center"></a>

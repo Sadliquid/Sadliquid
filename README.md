@@ -22,7 +22,6 @@ Let's get to know each other better!
   <a href="https://www.linkedin.com/in/joshua-long-1a21ba257" title="LinkedIn"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/3121e617-c090-430b-bb5f-24319585ef93" width="50" height="50" align="center"></a>
   <a href="https://instagram.com/joshua_still_thinking?igshid=OGQ5ZDc2ODk2ZA==" title="Instagram"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/b14f352b-e36b-46de-b4f7-ef8d25c2dfa9" width="50" height="50" align="center"></a>
   <a href="https://stackoverflow.com/users/20407868/joshua-long" title="Stack Overflow"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/888c0487-d28c-4e80-91e0-68ede1c27374" width="50" height="50" align="center"></a>
-  <a href="https://www.facebook.com/profile.php?id=100091788181902&mibextid=LQQJ4d" title="Facebook"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/5b308ce7-0a98-4d19-bda7-3136713e4c81" width="50" height="50" align="center"></a>  
 </p>
 <h3>My contact channels</h3>
 <a href="mailto:joshua-long-me@protonmail.com" title="Email me"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/384b9aa6-e7ab-4161-9141-93b1c3a24d03" width="50" height="50" align="center"></a>

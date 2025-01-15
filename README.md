@@ -11,7 +11,7 @@
 
 - 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and have been testing [iOS 17](https://www.apple.com/sg/ios/ios-17-preview). Stay tuned for [Worldwide Developers Conference 2024 (WWDC24)](https://developer.apple.com/wwdc24/) to find out more about iOS18's release!
   
-- 👨🏼‍💻 My Personal Webpage can be found [here](https://joshua-long-yx.tech)
+- 👨🏼‍💻 My Personal Webpage can be found [here](https://joshua-long.me)
   
 - 🤔 I’m interested in iOS Development, Web and Discord Dev, as well as tech-related events, workshops and hackathons
   

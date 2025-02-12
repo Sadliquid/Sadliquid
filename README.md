@@ -7,7 +7,7 @@
 
 - 🌱 Certified Entry-Level Python Programmer, Full-Stack Developer, Discord Developer and aspiring Computer Science Student
 
-- 👾 My friends and I developed [Verdex](https://verdex.app) and [MakanMatch](https://makanmatch.com)
+- 👾 My friends and I developed [Verdex](https://verdex.prakhar.app) and [MakanMatch](https://makanmatch.com)
 
 - 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and tested [iOS 17](https://www.apple.com/sg/ios/ios-17-preview)
   

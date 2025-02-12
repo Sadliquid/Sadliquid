@@ -1,21 +1,21 @@
 <h1 align='center'>Hey there 👋🏻, I'm Joshua</h1>
 <h3 align='center'>I'm a tech enthusiast studying Information Technology at <a href="https://www.nyp.edu.sg">Nanyang Polytechnic</a></h3>
 
-![](https://komarev.com/ghpvc/?username=Sadliquid&color=yellow)
+![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
 
-## 💬 About me 💬
+## About me
 
-- 🌱 Certified Entry-Level Python Programmer, Web Developer, Discord Developer and aspiring student yearning to find my place in the world of Computer Science
+- 🌱 Certified Entry-Level Python Programmer, Full-Stack Developer, Discord Developer and aspiring Computer Science Student
 
-- 👾 My friends and I developed Verdex; a Web Platform designed to help tourists coming to Singapore generate sustainable itineraries. Head over to [Verdex](https://verdex.app) to check it out! 
+- 👾 My friends and I developed [Verdex](https://verdex.app) and [MakanMatch](https://makanmatch.app)
 
-- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and have been testing [iOS 17](https://www.apple.com/sg/ios/ios-17-preview). Stay tuned for [Worldwide Developers Conference 2024 (WWDC24)](https://developer.apple.com/wwdc24/) to find out more about iOS18's release!
+- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and tested [iOS 17](https://www.apple.com/sg/ios/ios-17-preview)
   
 - 👨🏼‍💻 My Personal Webpage can be found [here](https://joshua-long.me)
   
-- 🤔 I’m interested in iOS Development, Web and Discord Dev, as well as tech-related events, workshops and hackathons
+- 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, as well as tech-related events, workshops and hackathons
 
-## 🔨 Languages and tools 🔨
+## Languages and tools
 <p align='left'>
   <a href="https://www.python.org" title="Python"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/ef8028f9-9a3c-4eb7-b9c0-35479e5ba356" width="50" height="50" align="center"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/041f2b99-ba86-4ac4-b154-86f48f3a4568" width="50" height="50" align="center"></a>
@@ -31,12 +31,12 @@
   <a href="https://nodejs.org/en" title="NodeJS"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/f050f3f3-9c70-4f49-a502-a54c69af0356" width="50" height="50" align="center"></a>
 </p>
 
-## 🏆 Github Trophies 🏆
+## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
 
-## 📈 Statistics 📈
+## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadliquid&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=Sadliquid&border_radius=6&card_width=350)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadliquid&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sadliquid)](https://github.com/anuraghazra/github-readme-stats) 
 

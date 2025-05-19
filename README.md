@@ -7,13 +7,9 @@
 
 - 🌱 Certified Entry-Level Python Programmer, Full-Stack Developer, Discord Developer and aspiring Computer Science Student
 
-- 👾 My friends and I developed [Verdex](https://verdex.prakhar.app) and [MakanMatch](https://makanmatch.com)
-
-- 📱I'm part of the [Apple Beta Software Program](https://beta.apple.com) and tested [iOS 17](https://www.apple.com/sg/ios/ios-17-preview)
+- 👾 My friends and I developed [Verdex](https://verdex.prakhar.app), [MakanMatch](https://makanmatch.com) and [Recyclify](https://recyclify.live)
   
-- 👨🏼‍💻 My Personal Webpage can be found [here](https://joshua-long.me)
-  
-- 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, as well as tech-related events, workshops and hackathons
+- 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, Artificial Intelligence and as well as tech-related events, workshops and hackathons
 
 ## Languages and tools
 <p align='left'>
@@ -39,5 +35,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadliquid&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sadliquid)](https://github.com/anuraghazra/github-readme-stats) 
-
-

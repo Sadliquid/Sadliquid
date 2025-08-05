@@ -33,5 +33,3 @@
 ## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadliquid&show_icons=true)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sadliquid)](https://github.com/anuraghazra/github-readme-stats) 

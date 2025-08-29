@@ -14,20 +14,32 @@
 
 - 💁🏼‍♂️ More about me here → [joshua-long.dev](https://joshua-long.dev)
 
-## Languages and tools
-<p align='left'>
-  <a href="https://www.python.org" title="Python"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/ef8028f9-9a3c-4eb7-b9c0-35479e5ba356" width="50" height="50" align="center"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/041f2b99-ba86-4ac4-b154-86f48f3a4568" width="50" height="50" align="center"></a>
-  <a href="https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values." title="SQL"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/457f2179-c77b-48b3-9eed-86100a740ea0" width="50" height="50" align="center"></a>
-  <a href="https://html.com/html5" title="HTML5"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/c7c732e6-bbf8-49c4-bef4-678877e430d3" width="50" height="50" align="center"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS#" title="CSS"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/313f61ff-ee0e-447a-9214-1a87fa66ad8a" width="50" height="50" align="center"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript#" title="Javascript"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/7da7fe79-fc28-41d3-8978-c52c6e54d62e" width="36" height="50" align="center"></a>
-  <a href="https://www.figma.com" title="Figma"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/58b74ae9-df07-4543-97e4-284974cbcc2c" width="50" height="50" align="center"></a>
-  <a href="https://www.swift.org" title="Swift"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/c8c1c8c3-5591-4056-ab54-2727286ff965" width="50" height="50" align="center"></a>
-  <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/e67417f9-b730-45f0-8738-573fbecc9f6e" width="50" height="50" align="center"></a>
-  <a href="https://git-scm.com" title="Git"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/a6ae5fca-c90d-4ad0-a9c0-c876283c847a" width="50" height="50" align="center"></a>
-  <a href="https://firebase.google.com" title="Firebase"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/933a5e52-7c2f-4325-be97-e275794c170c" width="65" height="50" align="center"></a>
-  <a href="https://nodejs.org/en" title="NodeJS"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/f050f3f3-9c70-4f49-a502-a54c69af0356" width="50" height="50" align="center"></a>
+## Languages and Tools  
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=zaim&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial Intelligence-FF6F00?style=for-the-badge&logo=roboflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </p>
 
 ## GitHub Stats

@@ -4,12 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
 
 ## About me
+- ⭐️ Passionate Full-Stack Developer, Discord Developer and aspiring Computer Science Student
 
-- 🌱 Certified Entry-Level Python Programmer, Full-Stack Developer, Discord Developer and aspiring Computer Science Student
+- 🏅 Certified in Entry-Level Python, Swift & Google Cybersecurity
 
-- 👾 My friends and I developed [Verdex](https://verdex.prakhar.app), [MakanMatch](https://makanmatch.com) and [Recyclify](https://recyclify.live)
+- 👾 My friends and I developed [Verdex](https://verdex.prakhar.app), [MakanMatch](https://makanmatch.prakhar.app) and [Recyclify](https://recyclify.live)
   
-- 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, Artificial Intelligence and as well as tech-related events, workshops and hackathons
+- 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, Artificial Intelligence & Cloud Technologies
+
+- 💁🏼‍♂️ More about me here → [joshua-long.dev](https://joshua-long.dev)
 
 ## Languages and tools
 <p align='left'>
@@ -27,9 +30,7 @@
   <a href="https://nodejs.org/en" title="NodeJS"><img src="https://github.com/Sadliquid/Sadliquid/assets/131176908/f050f3f3-9c70-4f49-a502-a54c69af0356" width="50" height="50" align="center"></a>
 </p>
 
-## GitHub Trophies
+## GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
-
-## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadliquid&show_icons=true)

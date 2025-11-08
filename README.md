@@ -1,9 +1,6 @@
-<h1 align='center'>Hey there 👋🏻, I'm Joshua</h1>
-<h3 align='center'>I'm a tech enthusiast studying Information Technology at <a href="https://www.nyp.edu.sg">Nanyang Polytechnic</a></h3>
-
-![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
-
 ## About me
+- 👋🏻 Hi! I'm Joshua
+
 - ⭐️ Passionate Full-Stack Developer, Discord Developer and aspiring Computer Science Student
 
 - 🏅 Certified in Entry-Level Python, Swift & Google Cybersecurity
@@ -13,6 +10,8 @@
 - 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, Artificial Intelligence & Cloud Technologies
 
 - 💁🏼‍♂️ More about me here → [joshua-long.dev](https://joshua-long.dev)
+
+![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
 
 ## Languages and Tools  
 
@@ -53,7 +52,11 @@
   <img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-## GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadliquid&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadliquid&hide_border=true&rank_icon=github&hide=stars,issues&show=reviews,prs_merged&bg_color=30,FF1F1F,950084&title_color=fff&text_color=fff" />
+  <img src=href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sadliquid&hide_border=true&date_format=j%20M%5B%20Y%5D&background=30%2CFF1F1F%2C950084&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&excludeDaysLabel=FFFFFF&card_height=195" alt="GitHub Streak">
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)

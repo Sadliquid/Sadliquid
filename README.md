@@ -1,7 +1,5 @@
-## About me
-- 👋🏻 Hi! I'm Joshua
-
-- ⭐️ Passionate Full-Stack Developer, Discord Developer and aspiring Computer Science Student
+## 👋🏻 Hi! I'm Joshua
+- ⭐️ I'm a passionate Full-Stack App Developer, Discord Developer and an aspiring Computer Science Student
 
 - 🏅 Certified in Entry-Level Python, Swift & Google Cybersecurity
 
@@ -13,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
 
-## Languages and Tools  
+## Languages & tools
 
 <p align="center">
   
@@ -52,10 +50,10 @@
   <img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
----
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadliquid&hide_border=true&rank_icon=github&hide=stars,issues&show=reviews,prs_merged&bg_color=30,FF1F1F,950084&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadliquid&hide_border=true&rank_icon=github&hide=stars,issues&show=reviews,prs_merged&bg_color=30,FF1F1F,950084&title_color=fff&text_color=fff&custom_title=Sadliquid%27s%20GitHub%20Stats" />
   <img src=href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sadliquid&hide_border=true&date_format=j%20M%5B%20Y%5D&background=30%2CFF1F1F%2C950084&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&excludeDaysLabel=FFFFFF&card_height=195" alt="GitHub Streak">
 </p>
 

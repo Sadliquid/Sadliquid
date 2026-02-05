@@ -1,13 +1,25 @@
-## 👋🏻 Hi! I'm Joshua
-- ⭐️ I'm a passionate Full-Stack App Developer, Discord Developer and an aspiring Computer Science Student
+<div align="center">
 
-- 🏅 Certified in Entry-Level Python, Swift & Google Cybersecurity
+# 👋🏻 Hey, I'm Joshua!
 
-- 👾 My friends and I developed [Verdex](https://verdex.prakhar.app), [MakanMatch](https://makanmatch.prakhar.app) and [Recyclify](https://recyclify.live)
-  
-- 🤔 I’m interested in iOS Development, Full-Stack and Discord Dev, Artificial Intelligence & Cloud Technologies
+### Aspiring Full-Stack Developer specialising in AI
 
-- 💁🏼‍♂️ More about me here → [joshua-long.dev](https://joshua-long.dev)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2E9EF7&center=true&vCenter=true&width=435&lines=Turning+caffeine+into+code;Probably+debugging+right+now;Full-stack+chaos+coordinator" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+⭐️ I turn _ideas_ into **apps** (and _bugs_ into **features**)
+
+🏅 Certified in **Python** • **Swift** • **Google Cybersecurity** • **IBM Generative AI**
+
+👾 Co-creator & Developer of **Verdex** • **MakanMatch** • **Recyclify** • **CatFace**
+
+🤔 Exploring **AI** • **Cloud Technologies** • **System Design**
+
+💁🏼‍♂️ [https://joshua-long.dev](https://joshua-long.dev)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
 

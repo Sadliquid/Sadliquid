@@ -14,7 +14,6 @@
 ## Languages & tools
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -23,7 +22,6 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-387CA0?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-
   <img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -48,6 +46,18 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00.svg?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-000000.svg?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowise-3B82F6.svg?style=for-the-badge&logo=flowise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000.svg?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral%20AI-FF7000.svg?style=for-the-badge&logo=mistral&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/Optuna-3A7CDB.svg?style=for-the-badge&logo=optuna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orange-FF6F00.svg?style=for-the-badge&logo=orange&logoColor=white" />
 </p>
 
 ## GitHub Stats

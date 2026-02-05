@@ -4,7 +4,7 @@
 
 ### Aspiring Full-Stack Developer specialising in AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2E9EF7&center=true&vCenter=true&width=435&lines=Turning+caffeine+into+code;Probably+debugging+right+now;Full-stack+chaos+coordinator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2E9EF7&center=true&vCenter=true&width=435&lines=Turning+caffeine+into+code+☕;Probably+debugging+right+now;Full-stack+chaos+coordinator" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=Sadliquid&color=red)
 </div>

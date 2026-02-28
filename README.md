@@ -17,7 +17,9 @@
 
 👾 Co-developer of **Verdex** • **MakanMatch** • **Recyclify** • **PlanPerfect** • **MeteoData** • **FilmManager**
 
-👾 Publisher & Developer of **CatFace** - A Microsoft Extension which helps ~4500 developers worldwide debug better
+👾 Publisher of **CatFace** - A Microsoft Extension which helps ~4500 developers worldwide debug better
+
+👾 Developer of **ChatNinja** - A Generative-AI Powered Discord App equipped with native commands
 
 🤔 Exploring **AI** • **Cloud Technologies** • **System Design**
 

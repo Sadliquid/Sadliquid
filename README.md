@@ -15,7 +15,7 @@
 
 🏅 Certified in **Python** • **Swift** • **Google Cybersecurity** • **IBM Generative AI**
 
-👾 Co-developer of **Verdex** • **MakanMatch** • **Recyclify** • **PlanPerfect** • **MeteoData** • **FilmManager**
+👾 Co-developer of **Verdex** • **MakanMatch** • **Recyclify** • **PlanPerfect** • **Xtract** • **MeteoData** • **FilmManager**
 
 👾 Publisher of **CatFace** - A Microsoft Extension which helps ~4500 developers worldwide debug better
 

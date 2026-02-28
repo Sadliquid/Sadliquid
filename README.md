@@ -77,8 +77,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadliquid&hide_border=true&hide_rank=true&hide=stars,issues&show=reviews,prs_merged&bg_color=30,FF1F1F,950084&title_color=fff&text_color=fff&custom_title=Sadliquid%27s%20GitHub%20Stats" />
   <img src=href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sadliquid&hide_border=true&date_format=j%20M%5B%20Y%5D&background=30%2CFF1F1F%2C950084&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&excludeDaysLabel=FFFFFF&card_height=195&card_width=550" alt="GitHub Streak">
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sadliquid&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
